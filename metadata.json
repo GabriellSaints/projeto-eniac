@@ -1,0 +1,6 @@
+{
+  "name": "ENIAC Store",
+  "description": "A loja oficial de e-commerce de eletrônicos, livros e vestuário do Centro Universitário ENIAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
